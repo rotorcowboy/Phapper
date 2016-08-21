@@ -3,7 +3,7 @@
 require_once(__DIR__.'/inc/oauth2.php');
 require_once(__DIR__.'/inc/ratelimiter.php');
 require_once(__DIR__.'/inc/live.php');
-require_once(__DIR__.'/inc/responseparser.php');
+//require_once(__DIR__.'/inc/responseparser.php');
 
 
 class Phapper {
